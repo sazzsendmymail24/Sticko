@@ -1,0 +1,29 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_234_1026)">
+<rect width="56" height="56" rx="14" fill="#0073FF"/>
+<circle cx="7.87262" cy="21.0919" r="41.5381" transform="rotate(-0.403168 7.87262 21.0919)" fill="url(#paint0_linear_234_1026)" stroke="url(#paint1_linear_234_1026)" stroke-width="0.085853"/>
+<circle cx="28.0909" cy="50.775" r="41.5381" transform="rotate(-0.403168 28.0909 50.775)" fill="url(#paint2_linear_234_1026)" stroke="url(#paint3_radial_234_1026)" stroke-width="0.085853"/>
+<path d="M28.5 27.6533C28.5 27.6533 23.5706 36.6533 18.6 36.6533C13.6294 36.6533 10.5 32.6238 10.5 27.6533C10.5 22.6828 13.6294 18.6533 18.6 18.6533C23.5706 18.6533 28.5 27.6533 28.5 27.6533ZM28.5 27.6533C28.5 27.6533 33.4295 36.6533 38.4 36.6533C43.3705 36.6533 46.5 32.6238 46.5 27.6533C46.5 22.6828 43.3705 18.6533 38.4 18.6533C33.4295 18.6533 28.5 27.6533 28.5 27.6533Z" stroke="white" stroke-width="2"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_234_1026" x1="7.87262" y1="-20.4892" x2="7.87262" y2="62.673" gradientUnits="userSpaceOnUse">
+<stop stop-color="#50B0FF" stop-opacity="0.56"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_234_1026" x1="51.4246" y1="16.9578" x2="-44.9089" y2="38.3012" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B5C2FB"/>
+<stop offset="1" stop-color="#B5C2FB" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint2_linear_234_1026" x1="28.0909" y1="9.19393" x2="28.0909" y2="92.3561" gradientUnits="userSpaceOnUse">
+<stop stop-color="#57AEFF" stop-opacity="0.5"/>
+<stop offset="1" stop-color="#4C5299" stop-opacity="0.08"/>
+</linearGradient>
+<radialGradient id="paint3_radial_234_1026" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(28.0909 50.775) rotate(89.968) scale(86.1425)">
+<stop offset="0.046875" stop-color="#379EFF" stop-opacity="0"/>
+<stop offset="1" stop-color="#4271FF"/>
+</radialGradient>
+<clipPath id="clip0_234_1026">
+<rect width="56" height="56" rx="14" fill="white"/>
+</clipPath>
+</defs>
+</svg>
